@@ -1,0 +1,48 @@
+/*
+* @Author: 李金泉
+* @Date:   2018-11-17 14:30:22
+* @Last Modified by:   李金泉
+* @Last Modified time: 2018-11-17 15:07:18
+*/
+.container-fluid {
+    padding: 0px;
+}
+.flower-one img{
+	width: 100%;
+}
+.flower-two h3{
+	color: #000;
+	margin-top: 50px;
+}
+.flower-two .flower-p{
+	font-size: 13px;
+	margin-bottom: 50px;
+}
+.flower-box{
+	border-top: 1px solid #ccc;
+	margin-top:50px;
+	margin-bottom: 50px;
+}
+.flower-two p{
+	font-size: 12px;
+	color: #808080;
+	line-height: 1.9em;
+}
+.flower-two img{
+	width: 250px;
+	height: 180px;
+	margin-left: 50px;
+	margin-bottom: 10px;
+}
+.flowerimg{
+	margin-top: 50px;
+}
+.bg-foot{
+	display: block;
+	margin-top: 100px;
+}
+@media screen and (max-width:992px){
+    .flower_img{
+        display:none;
+	}
+}

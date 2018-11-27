@@ -1,0 +1,28 @@
+/*
+* @Author: 李金泉
+* @Date:   2018-11-17 10:17:30
+* @Last Modified by:   李金泉
+* @Last Modified time: 2018-11-17 11:13:44
+*/
+.com-one{
+	text-align: center;
+	color: inherit;
+	margin-bottom: 100px;
+}
+.com-one h5{
+	margin-top: 60px;
+    margin-bottom: 30px;
+}
+.com-one p{
+	font-size: 12px;
+}
+.com-one img{
+	width: 100%;
+	padding-top: 45px;
+}
+.thumbnail{
+	border: 0px;
+}
+.bg-foot{
+	display: block;
+}

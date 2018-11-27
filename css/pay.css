@@ -1,0 +1,30 @@
+/*
+* @Author: 李金泉
+* @Date:   2018-11-17 11:07:28
+* @Last Modified by:   李金泉
+* @Last Modified time: 2018-11-17 14:24:16
+*/
+.pay-one h3{
+	margin-top: 50px;
+	color: #000;
+}
+.pay-one .pay-p{
+	font-size: 13px;
+	margin-bottom: 50px;
+}
+.pay-one span{
+	color: #666;
+	font-size: 14px;
+}
+.pay-one h5{
+	margin-top: 30px;
+}
+.pay-box{
+	border-top: 1px dashed #ccc;
+	margin-top:50px;
+	margin-bottom: 20px;
+}
+.bg-foot{
+	display: block;
+	margin-top: 100px;
+}
